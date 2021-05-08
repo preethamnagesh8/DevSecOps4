@@ -18,6 +18,6 @@
   "homepage": "https://github.com/preethamnagesh8/DevSecOps4#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "handlebars": "^3.0.3"
+    "handlebars": "^4.7.7"
   }
 }
